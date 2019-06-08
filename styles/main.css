@@ -209,3 +209,7 @@ h6 {
 .modal__image {
   opacity: 0.2;
 }
+
+small {
+  font-size: 1.5rem;
+}
